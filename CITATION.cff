@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Matlab
+message: lenguaje m
+type: software
+authors:
+  - given-names: Camacho Lopez
+    name-particle: Valeria
+    email: L22211475@TECTIJUANA.EDU.MX
+    affiliation: ITT
+repository-code: 'https://github.com/valecraxker/Practica4-MSF'
+keywords:
+  - modelo matematico
+  - EDOS
+  - regeneracion
+  - globulos rojos
+  - sistema de ecuaciones
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-11-07'
