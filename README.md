@@ -41,7 +41,7 @@ y con las siguientes condiciones iniciales:
 
 
 
-Palabras clave: Modelo matematico; EDOS; Globlos rojos; Regeneracion; Ecuaciones.
+Palabras clave: Modelo matematico; EDOS; Globlos rojos; Regeneracion; Sistema de ecuaciones.
 
 ## Lista de archivos incluidos en el repositorio
 
